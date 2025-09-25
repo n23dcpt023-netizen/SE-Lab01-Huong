@@ -1,9 +1,6 @@
-LAB 01 - GIỚI THIỆU
-=====================================
-
-Họ tên: Trần Thị Lan Hương  
-MSSV: N23DCPT023  
-Lớp: D23CQPTTK01-N  
+Họ tên: Trần Thị Lan Hương
+MSSV: N23DCPT023
+Lớp: D23CQPTTK01-N
 Ngày sinh: 15/08/2005
-Môn học: Nhập môn Công nghệ Phần mềm  
-Sở thích: Đọc sách, nghe nhạc  
+Môn: Nhập môn Công nghệ Phần mềm
+Sở thích: Đọc sách, nghe nhạc
