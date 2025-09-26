@@ -1,6 +1,20 @@
-Họ tên: Trần Thị Lan Hương
-MSSV: N23DCPT023
-Lớp: D23CQPTTK01-N
-Ngày sinh: 15/08/2005
-Môn: Nhập môn Công nghệ Phần mềm
-Sở thích: Đọc sách, nghe nhạc
+Hello, my name is Trần Thị Lan Hương.
+I am currently a second-year student majoring in Multimedia Technology at Posts and Telecommunications Institute of Technology (PTIT).
+
+🔹 Interests
+- Event communication and media production
+- Content creation and visual storytelling
+- Filmmaking, photography, and creative design
+
+🔹 Skills
+- Multimedia tools: Photoshop, Illustrator, Premiere Pro, After Effects
+- Communication & teamwork in media projects
+- Content planning, filming, and video editing
+- Basic programming knowledge: HTML/CSS, JavaScript, Python
+
+🔹 Goals
+- To become a professional in event communication and media industry
+- To work on creative projects that inspire and connect people
+- To keep learning and improving my skills in design, production, and communication
+
+Thank you for reading my introduction!
